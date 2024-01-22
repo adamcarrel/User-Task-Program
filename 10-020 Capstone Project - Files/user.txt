@@ -1,0 +1,7 @@
+admin, adm1n
+john, panther
+sally, redblue
+alice, purple
+joel, garden
+mark, markpass
+phillis, phillispass
